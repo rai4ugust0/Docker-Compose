@@ -89,7 +89,7 @@ Este projeto implementa um sistema CRUD completo para gerenciamento de tarefas, 
 1. **Clone o repositório** (ou extraia os arquivos):
 
 ```bash
-git clone <seu-repositorio>
+git clone git@github.com:rai4ugust0/Docker-Compose.git
 cd <pasta-do-projeto>
 ```
 
@@ -330,3 +330,4 @@ ports:
 **Data de criação:** Novembro/2025  
 
 **Versão:** 1.0.0
+
