@@ -325,15 +325,8 @@ ports:
 - Verifique se o backend está acessível: `curl http://localhost:5000/api/health`
 - Verifique os logs do frontend: `docker compose logs frontend`
 
-## 📝 Licença
-
-Este projeto foi desenvolvido para fins educacionais como atividade da disciplina de Containerização.
-
-## 👨‍💻 Autor
-
-Desenvolvido como atividade final da disciplina de Docker Compose.
-
 ---
 
 **Data de criação:** Novembro/2025  
+
 **Versão:** 1.0.0
